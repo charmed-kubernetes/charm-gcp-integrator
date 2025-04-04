@@ -1,6 +1,7 @@
 name: Run tests with Tox
 
-on: [push, pull_request]
+on: 
+- pull_request
 
 jobs:
   call-inclusive-naming-check:

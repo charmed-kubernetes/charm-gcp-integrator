@@ -1,6 +1,6 @@
 name: Charmed Kubernetes Reactive wheelhouse test
 on: 
-  - pull_request
+- pull_request
 
 jobs:
   validate-wheelhouse:
